@@ -1,120 +1,534 @@
-[{
-  "_id": "BCTMZ6HTxFSppJESk",
-  "shopId": "J8Bhq3uTtdgwZx3rz",
-  "ancestors": [],
-  "createdAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+[
+  {
+    "_id": "5a1598c8d00c27f6a9000001",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG125-W1H Water-Cooled 143 LB Half Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG125-W1H Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 143 LB of half dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 44 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>21.13\" wide</li>\r\n<li>31.25\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG125-W1H Ice Style</h3>\r\n<ul>\r\n<li>Half Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Half Dice cube ice measurements: 1\" x 1/2\" x 1\"</li>\r\n<li>Ideal for beverage and dispensing applications</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG125-W1H Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG125-W1H Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /> </p>",
+    "price.range": "1659.99",
+    "price.min": 1659.99,
+    "price.max": 1659.99,
+    "handle": "5a1598c8d00c27f6a9000001",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.646Z"
+    }
   },
-  "description": "Sign in as administrator to edit.\nYou can clone this product from the product grid.\nYou can upload images click or drag in image box on the left here.\nTag this product below, and then add tag in navigation.\nClick the bookmark in the tag to set product url.\nOption variants, price, quantity, and child variants are created by clicking on the variant below, clone the variant to add more options.\nDetails can be added below the image for more specific product information.\n Login next to the cart, and then click the dashboard icon for more tools.",
-  "handle": "example-product",
-  "hashtags": [
-    "rpjCvTBGjhBi2xdro",
-    "cseCBSSrJ3t8HQSNP"
-  ],
-  "price.range": "12.99 - 19.99",
-  "price.min": 12.99,
-  "price.max": 19.99,
-  "isVisible": true,
-  "isLowQuantity": false,
-  "isSoldOut": false,
-  "isBackorder": false,
-  "metafields": [{
-    "key": "Material",
-    "value": "Cotton"
-  }, {
-    "key": "Quality",
-    "value": "Excellent"
-  }],
-  "pageTitle": "This is a basic product. You can do a lot with it.",
-  "type": "simple",
-  "title": "Basic Reaction Product",
-  "updatedAt": {
-    "$date": "2014-06-01T12:17:13.949-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000002",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000001"
+    ],
+    "title": "ITV SPIKA NG125-W1H Water-Cooled 143 LB Half Dice Cube Undercounter Ice Maker",
+    "price": 1659.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.646Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
   },
-  "vendor": "Example Manufacturer"
-}, {
-  "_id": "6qiqPwBkeJdtdQc4G",
-  "ancestors": [
-    "BCTMZ6HTxFSppJESk"
-  ],
-  "title": "Basic Example Variant",
-  "price": 19.99,
-  "inventoryManagement": true,
-  "inventoryPolicy": true,
-  "inventoryQuantity": 15,
-  "isVisible": true,
-  "updatedAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000003",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG175-A1F Air-Cooled 192 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG175-A1F Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 192 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 81 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>26\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG175-A1F Ice Style</h3>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n<br/>\r\n<h3>ITV SPIKA NG175-A1F Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 2.38 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG175-A1F Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>",
+    "price.range": "1890.99",
+    "price.min": 1890.99,
+    "price.max": 1890.99,
+    "handle": "5a1598c8d00c27f6a9000003",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.648Z"
+    }
   },
-  "createdAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000004",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000003"
+    ],
+    "title": "ITV SPIKA NG175-A1F Air-Cooled 192 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 1890.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.648Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
   },
-  "weight": 35,
-  "metafields": [{
-    "key": null,
-    "value": null
-  }],
-  "shopId": "J8Bhq3uTtdgwZx3rz",
-  "taxable": true,
-  "type": "variant"
-}, {
-  "_id": "SMr4rhDFnYvFMtDTX",
-  "ancestors": [
-    "BCTMZ6HTxFSppJESk",
-    "6qiqPwBkeJdtdQc4G"
-  ],
-  "title": "Option 1 - Red Dwarf",
-  "optionTitle": "Red",
-  "price": 19.99,
-  "inventoryManagement": true,
-  "inventoryPolicy": true,
-  "inventoryQuantity": 19,
-  "isVisible": true,
-  "updatedAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000005",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG215-W1F Water-Cooled 226 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG215-W1F Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 226 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 81 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>26\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG215-W1F Ice Style</h3>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n<br/>\r\n<h3>ITV SPIKA NG215-W1F Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG215-W1F Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>\r\n",
+    "price.range": "2032.99",
+    "price.min": 2032.99,
+    "price.max": 2032.99,
+    "handle": "5a1598c8d00c27f6a9000005",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.650Z"
+    }
   },
-  "createdAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000006",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000005"
+    ],
+    "title": "ITV SPIKA NG215-W1F Water-Cooled 226 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 2032.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.650Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
   },
-  "weight": 25,
-  "length": 10,
-  "height": 3,
-  "width": 10,
-  "metafields": [{
-    "key": null,
-    "value": null
-  }],
-  "shopId": "J8Bhq3uTtdgwZx3rz",
-  "taxable": true,
-  "type": "variant"
-}, {
-  "_id": "CJoRBm9vRrorc9mxZ",
-  "ancestors": [
-    "BCTMZ6HTxFSppJESk",
-    "6qiqPwBkeJdtdQc4G"
-  ],
-  "title": "Option 2 - Green Tomato",
-  "optionTitle": "Green",
-  "price": 12.99,
-  "inventoryManagement": true,
-  "inventoryPolicy": true,
-  "inventoryQuantity": 42,
-  "isVisible": true,
-  "updatedAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000007",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG285-W1F Water-Cooled 323 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG285-W1F Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 323 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 108 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>30\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG285-W1F Ice Style</h3>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n<br/>\r\n<h3>ITV SPIKA NG285-W1F Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG285-W1F Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>\r\n",
+    "price.range": "2265.99",
+    "price.min": 2265.99,
+    "price.max": 2265.99,
+    "handle": "5a1598c8d00c27f6a9000007",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.653Z"
+    }
   },
-  "createdAt": {
-    "$date": "2014-04-03T13:46:52.411-0700"
+  {
+    "_id": "5a1598c8d00c27f6a9000008",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000007"
+    ],
+    "title": "ITV SPIKA NG285-W1F Water-Cooled 323 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 2265.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.653Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
   },
-  "weight": 25,
-  "length": 10,
-  "height": 3,
-  "width": 10,
-  "metafields": [{
-    "key": null,
-    "value": null
-  }],
-  "shopId": "J8Bhq3uTtdgwZx3rz",
-  "taxable": true,
-  "type": "variant"
-}]
+  {
+    "_id": "5a1598c8d00c27f6a9000009",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG125-A1F Air-Cooled 146 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG125-A1F Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 146 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 44 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>21.13\" wide</li>\r\n<li>31.25\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG125-A1F Ice Style</h3>\r\n<ul>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG125-A1F Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 1.8 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG125-A1F Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /> </p>",
+    "price.range": "1659.99",
+    "price.min": 1659.99,
+    "price.max": 1659.99,
+    "handle": "5a1598c8d00c27f6a9000009",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.654Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900000a",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000009"
+    ],
+    "title": "ITV SPIKA NG125-A1F Air-Cooled 146 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 1659.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.654Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900000b",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG175-W1F Water-Cooled 192 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG175-W1F Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 192 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 81 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>26\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG175-W1F Ice Style</h3>\r\n<ul>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG175-W1F Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG175-W1F Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /> </p>",
+    "price.range": "1890.99",
+    "price.min": 1890.99,
+    "price.max": 1890.99,
+    "handle": "5a1598c8d00c27f6a900000b",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.654Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900000c",
+    "ancestors": [
+      "5a1598c8d00c27f6a900000b"
+    ],
+    "title": "ITV SPIKA NG175-W1F Water-Cooled 192 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 1890.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.654Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900000d",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG285-A1H Air-Cooled 312 LB Half Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG285-A1H Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 312 LB of half dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 108 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>30\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG285-A1H Ice Style</h3>\r\n<ul>\r\n<li>Half Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Half Dice cube ice measurements: 1\" x 1/2\" x 1\"</li>\r\n<li>Ideal for beverage and dispensing applications</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG285-A1H Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 4.3 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG285-A1H Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /> </p>",
+    "price.range": "2265.99",
+    "price.min": 2265.99,
+    "price.max": 2265.99,
+    "handle": "5a1598c8d00c27f6a900000d",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.655Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900000e",
+    "ancestors": [
+      "5a1598c8d00c27f6a900000d"
+    ],
+    "title": "ITV SPIKA NG285-A1H Air-Cooled 312 LB Half Dice Cube Undercounter Ice Maker",
+    "price": 2265.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.655Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900000f",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG125-W1F Water-Cooled 146 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG125-W1F Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 146 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 44 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>21.13\" wide</li>\r\n<li>31.25\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG125-W1F Ice Style</h3>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n<br/>\r\n<h3>ITV SPIKA NG125-W1F Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG125-W1F Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>\r\n",
+    "price.range": "1659.99",
+    "price.min": 1659.99,
+    "price.max": 1659.99,
+    "handle": "5a1598c8d00c27f6a900000f",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.655Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000010",
+    "ancestors": [
+      "5a1598c8d00c27f6a900000f"
+    ],
+    "title": "ITV SPIKA NG125-W1F Water-Cooled 146 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 1659.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.655Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000011",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG215-W1H Water-Cooled 239 LB Half Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG215-W1H Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 239 LB of half dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 81 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>26\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG215-W1H Ice Style</h3>\r\n<ul>\r\n<li>Half Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Half Dice cube ice measurements: 1\" x 1/2\" x 1\"</li>\r\n<li>Ideal for beverage and dispensing applications</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG215-W1H Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG215-W1H Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /> </p>",
+    "price.range": "2032.99",
+    "price.min": 2032.99,
+    "price.max": 2032.99,
+    "handle": "5a1598c8d00c27f6a9000011",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.656Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000012",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000011"
+    ],
+    "title": "ITV SPIKA NG215-W1H Water-Cooled 239 LB Half Dice Cube Undercounter Ice Maker",
+    "price": 2032.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.656Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000013",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG285-W1H Water-Cooled 312 LB Half Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG285-W1H Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 312 LB of half dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 108 LB of ice</li>\r\n<li>Self-contained, Water-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>30\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG285-W1H Ice Style</h3>\r\n<ul>\r\n<li>Half Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Half Dice cube ice measurements: 1\" x 1/2\" x 1\"</li>\r\n<li>Ideal for beverage and dispensing applications</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG285-W1H Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG285-W1H Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /> </p>",
+    "price.range": "2265.99",
+    "price.min": 2265.99,
+    "price.max": 2265.99,
+    "handle": "5a1598c8d00c27f6a9000013",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.656Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000014",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000013"
+    ],
+    "title": "ITV SPIKA NG285-W1H Water-Cooled 312 LB Half Dice Cube Undercounter Ice Maker",
+    "price": 2265.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.656Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000015",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG125-A1H Air-Cooled 143 LB Half Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG125-A1H Features</h3>\r\n<ul>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 143 LB of half dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 44 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>21.13\" wide</li>\r\n<li>31.25\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG125-A1H Ice Style</h3>\r\n<ul>\r\n<li>Half Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Half Dice cube ice measurements: 1\" x 1/2\" x 1\"</li>\r\n<li>Ideal for beverage and dispensing applications</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<h3>ITV SPIKA NG125-A1H Benefits</h3>\r\n<ul>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 1.8 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n</ul>\r\n<p><br /><br /></p>\r\n<h3>ITV SPIKA NG125-A1H Certifications</h3>\r\n<p><img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" /></p>",
+    "price.range": "1699.99",
+    "price.min": 1699.99,
+    "price.max": 1699.99,
+    "handle": "5a1598c8d00c27f6a9000015",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.656Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000016",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000015"
+    ],
+    "title": "ITV SPIKA NG125-A1H Air-Cooled 143 LB Half Dice Cube Undercounter Ice Maker",
+    "price": 1699.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.656Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000017",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG175-A1H Air-Cooled 214 LB Half Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG175-A1H Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 214 LB of half dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 81 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>26\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG175-A1H Ice Style</h3>\r\n<li>Half Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Half Dice cube ice measurements: 1\" x 1/2\" x 1\"</li>\r\n<li>Ideal for beverage and dispensing applications</li>\r\n<br/>\r\n<h3>ITV SPIKA NG175-A1H Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 2.38 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG175-A1H Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>",
+    "price.range": "1890.99",
+    "price.min": 1890.99,
+    "price.max": 1890.99,
+    "handle": "5a1598c8d00c27f6a9000017",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.657Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000018",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000017"
+    ],
+    "title": "ITV SPIKA NG175-A1H Air-Cooled 214 LB Half Dice Cube Undercounter Ice Maker",
+    "price": 1890.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.657Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a9000019",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG215-A1F Air-Cooled 226 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG215-A1F Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 226 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 81 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>26\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG215-A1F Ice Style</h3>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n<br/>\r\n<h3>ITV SPIKA NG215-A1F Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 3.4 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG215-A1F Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>",
+    "price.range": "2032.99",
+    "price.min": 2032.99,
+    "price.max": 2032.99,
+    "handle": "5a1598c8d00c27f6a9000019",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.657Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900001a",
+    "ancestors": [
+      "5a1598c8d00c27f6a9000019"
+    ],
+    "title": "ITV SPIKA NG215-A1F Air-Cooled 226 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 2032.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.657Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900001b",
+    "type": "simple",
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "vendor": "ITV",
+    "title": "ITV SPIKA NG285-A1F Air-Cooled 323 LB Full Dice Cube Undercounter Ice Maker",
+    "description": "<h3>ITV SPIKA NG285-A1F Features</h3>\r\n<li>Undercounter Ice Maker</li>\r\n<li>Produces up to 323 LB of Full dice cube ice every 24 hours</li>\r\n<li>Integrated Storage Bin capacity up to 108 LB of ice</li>\r\n<li>Self-contained, Air-cooled condenser</li>\r\n<li>304 Stainless Steel Box-Frame Construction</li>\r\n<li>30\" wide</li>\r\n<li>33\" high</li>\r\n<li>Uses R404a refrigerant</li>\r\n<li>115 Volt/60Hz/1-Phase electrical</li>\r\n<li>Electromechanical timer and thermostat</li>\r\n<li>External mounted on/off switch</li>\r\n<li>Seal-less pump outside ice zone</li>\r\n<li>ENERGY STAR Qualified unit</li>\r\n\r\n<br/>\r\n<h3>ITV SPIKA NG285-A1F Ice Style</h3>\r\n<li>Full Dice cube ice cools beverages quickly due to its high surface area to volume ratio</li>\r\n<li>Full Dice cube ice measurements: 1\" x 1\" x 1\"</li>\r\n<li>Perfect for all types of cocktails, retail, and dispensing</li>\r\n<br/>\r\n<h3>ITV SPIKA NG285-A1F Benefits</h3>\r\n<li>Plug-and-play installation with NEMA Plug Type 5-15P</li>\r\n<li>Uses only 4.3 gallons of water per hour for ice production</li>\r\n<li>Water Distributor increases resistance to scale buildup - removable for cleaning</li>\r\n<li>Removable top cover gives user quick access to ice/wash switch and electrical box</li>\r\n<li>Designed for easy access to machine internals for service</li>\r\n<li>Front ventilation permits built-in installation</li>\r\n<li>Legs adjustable between 6\" and 6.5\"</li>\r\n<li>Integrated Ice Storage Bin - insulated (non-refrigerated) with polyurethane foam for lower heat transmission</li>\r\n\r\n<br/><br/>\r\n<h3>ITV SPIKA NG285-A1F Certifications</h3>\r\n<img title=\"This product has been found to meet both the United States and Canadian electrical safety standards as imposed by the ETL, a division of the Intertek Group.\" src=\"{{media url='certified/ETL-safety.jpg'}}\" alt=\"ETL Certification\" width=\"50\" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img title=\"This product has been found to meet the health, safety and environmental standards set out by the National Sanitation Foundation (NSF) International.\" src=\"{{media url='certified/NSF.jpg'}}\" alt=\"National Sanitation Foundation\" width=\"50\" />\r\n<br/>",
+    "price.range": "2265.99",
+    "price.min": 2265.99,
+    "price.max": 2265.99,
+    "handle": "5a1598c8d00c27f6a900001b",
+    "isVisible": true,
+    "isLowQuantity": false,
+    "isBackorder": true,
+    "hashtags": [],
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.658Z"
+    }
+  },
+  {
+    "_id": "5a1598c8d00c27f6a900001c",
+    "ancestors": [
+      "5a1598c8d00c27f6a900001b"
+    ],
+    "title": "ITV SPIKA NG285-A1F Air-Cooled 323 LB Full Dice Cube Undercounter Ice Maker",
+    "price": 2265.99,
+    "inventoryManagement": true,
+    "inventoryPolicy": true,
+    "inventoryQuantity": 15,
+    "isVisible": true,
+    "createdAt": {
+      "$date": "2017-11-22T15:33:28.658Z"
+    },
+    "weight": 1,
+    "shopId": "J8Bhq3uTtdgwZx3rz",
+    "taxable": true,
+    "type": "variant"
+  }
+]
