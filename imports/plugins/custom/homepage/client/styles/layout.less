@@ -1,5 +1,10 @@
 @import "{}/imports/plugins/included/default-theme/client/styles/main.less";
 
+img {
+  height: auto;
+  max-width: 100%;
+}
+
 .beesknees {
   height: 30px;
   background-color: #00b3ee;
@@ -21,26 +26,212 @@
 }
 
 .main-container {
-  max-width: 1280px;
+  max-width: 1440px;
   padding-left: 20px;
   padding-right: 20px;
   margin-right: auto;
   margin-left: auto;
 
   .main {
-    width: 79%;
-    float: left;
+    width: 100%;
 
-    p {
-      width: 100%;
-      img {
-        width: 100%;
+    .b-home-img-big {
+      margin: 0 0 40px;
+    }
+
+    .b-home-imgs-small {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      margin: 0 0 70px;
+
+      .b-home-img-small {
+        width: ~"calc(50% - 20px)";
+      }
+      
+      .b-home-img-small + .b-home-img-small {
+        margin-left: 40px;
       }
     }
   }
+
+  .b-home-reviews {
+    margin: 0 0 40px;
+
+    .b-home-reviews-title {
+      font-size: 32px;
+      font-weight: bold;
+      line-height: 1.25;
+      text-align: center;
+      color: #3c4650;
+      margin: 0 0 30px;
+    }
+
+    .b-home-reviews-content {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+    }
+
+    .b-home-reviews-item {
+      width: ~"calc(33.33% - 27px)";
+      border: solid 1px #e8edf0;
+      padding: 20px;
+      border-radius: 4px;
+
+      .b-home-reviews-item-head {
+        margin: 0 0 30px;
+
+        .b-home-reviews-item-img {
+          float: left;
+
+          img {
+            border-radius: 100%;
+            display: block;
+          }
+        }
+
+        .b-home-reviews-item-meta {
+          margin-left: 80px;
+
+          strong {
+            font-size: 18px;
+            font-weight: 600;
+            color: #3c4650;
+            display: block;
+            padding: 2px 0 6px;
+          }
+
+          span {
+            font-size: 16px;
+            color: #3c4650;
+          }
+        }
+      }
+
+      .b-home-reviews-item-content {
+        font-size: 18px;
+        line-height: 1.33;
+        color: #3c4650;
+      }
+    }
+
+    .b-home-reviews-item + .b-home-reviews-item {
+      margin-left: 40px;
+    }
+  }
+
+  .p-home-text {
+    margin: 0;
+
+    .p-home-text-title {
+      font-size: 32px;
+      font-weight: bold;
+      line-height: 1.25;
+      text-align: center;
+      color: #3c4650;
+      margin: 0 0 30px;
+    }
+
+    .home-text-blocks {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+
+      .home-text-block {
+        width: ~"calc(33.33% - 27px)";
+
+        .home-text-block-img {
+          margin: 0 0 10px;
+
+          img {
+            vertical-align: top;
+          }
+        }
+
+        .home-text-block-title {
+          font-size: 18px;
+          font-weight: 600;
+          line-height: 1.33;
+          color: #3c4650;
+          margin: 0 0 12px;
+        }
+
+        .home-text-block-content {
+          font-size: 16px;
+          line-height: 1.5;
+          color: #3c4650;
+          text-align: left;
+        }
+      }
+
+      .home-text-block + .home-text-block {
+        margin-left: 40px;
+      }
+    }
+  }
+
+}
+
+@media only screen and (max-width: 980px) {
+  .main-container {
   
-  .sidebar-main {
-    width: 20%;
-    float: left;
+    .main {
+
+      .b-home-imgs-small {
+        display: block;
+        margin-bottom: 40px;
+
+        .b-home-img-small {
+          width: auto;
+        }
+
+        .b-home-img-small img {
+          width: 100%;
+        }
+        
+        .b-home-img-small + .b-home-img-small {
+          margin: 20px 0 0;
+        }
+      }
+
+      .b-home-reviews {
+        margin-bottom: 30px;
+
+        .b-home-reviews-content {
+          display: block;
+        }
+    
+        .b-home-reviews-item {
+          width: 100%;
+          margin-bottom: 20px;
+          margin-left: 0;
+        }
+      }
+
+      .p-home-text {
+    
+        .home-text-blocks {
+          display: block;
+    
+          .home-text-block {
+            width: auto;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 479px) {
+  .b-home-img-small-desktop {
+    display: none;
+  }
+}
+
+@media (min-width: 480px) {
+  .b-home-img-small-mobile {
+    display: none;
   }
 }
