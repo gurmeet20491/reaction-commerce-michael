@@ -68,7 +68,7 @@ export default {
     return registeredPackage;
   },
   defaultCustomerRoles: [ "guest", "account/profile", "product", "tag", "index", "cart/checkout", "cart/completed"],
-  defaultVisitorRoles: ["anonymous", "guest", "product", "tag", "index", "cart/checkout", "cart/completed"],
+  defaultVisitorRoles: ["anonymous", "guest", "product", "tag", "index", "cart/checkout", "cart/completed", "homepage"],
   createGroups,
   /**
    * canInviteToGroup
