@@ -49,3 +49,4 @@ import '/imports/plugins/included/taxes-taxcloud/client';
 import '/imports/plugins/included/taxes-taxjar/client';
 import '/imports/plugins/included/ui-search/client';
 import '/imports/plugins/custom/homepage/client';
+import '/imports/plugins/custom/product-description-styling-fix/client';
