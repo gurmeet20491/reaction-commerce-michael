@@ -12,7 +12,7 @@
 
     .footer-social {
       float: left;
-      width: 25%;
+      width: 33%;
       margin-top: 53px;
 
       a {
@@ -67,7 +67,7 @@
     }
     .footer-links-new {
       float: left;
-      width: 50%;
+      width: 66%;
 
       .footer-links-new-top {
         float: left;
@@ -253,6 +253,36 @@
         margin: 0;
         padding: 0;
         vertical-align: top;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .page-footer {
+
+    .content {
+  
+      .footer-logo {
+        position: static;
+        text-align: center;
+        width: 100%;
+        margin: 0 0 34px;
+      }
+  
+      .footer-social {
+        float: none;
+        width: 100%;
+        text-align: center;
+        -ms-flex-order: 100;
+        -webkit-order: 100;
+        order: 100;
+        margin-bottom: 30px;
+      }
+
+      .footer-links-new {
+        float: none;
+        width: 100%;
       }
     }
   }
