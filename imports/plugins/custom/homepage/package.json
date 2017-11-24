@@ -1,0 +1,14 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "IceMachinesPlus.com - Home Page",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Fok",
+  "license": "ISC",
+  "dependencies": {
+    "react-slick": "^0.15.4"
+  }
+}
