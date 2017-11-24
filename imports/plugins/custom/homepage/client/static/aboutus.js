@@ -1,8 +1,17 @@
 import React, { Component } from "react";
 import { registerComponent } from "/imports/plugins/core/components/lib";
+import Slider from 'react-slick';
 
 class AboutUs extends Component {
   render() {
+    const settings = {
+      dots: false,
+      infinite: true,
+      arrows: true,
+      slidesToShow: 3,
+      slidesToScroll: 1
+    };
+
     return (
       <div className="main-container">
         <div className="columns main">
@@ -24,6 +33,19 @@ class AboutUs extends Component {
                   <img src="resources/images/home_small_img_2m.jpg" alt="" width="680" height="340" className="b-home-img-small-mobile"/>
                 </a>
               </div>
+            </div>
+
+            <div className="b-home-brands">
+              <Slider {...settings}>
+                <div><img src="resources/images/1.png" alt=""/></div>
+                <div><img src="resources/images/2.png" alt=""/></div>
+                <div><img src="resources/images/3.png" alt=""/></div>
+                <div><img src="resources/images/4.png" alt=""/></div>
+                <div><img src="resources/images/5.png" alt=""/></div>
+                <div><img src="resources/images/6.png" alt=""/></div>
+                <div><img src="resources/images/7.png" alt=""/></div>
+                <div><img src="resources/images/8.png" alt=""/></div>
+              </Slider>
             </div>
 
             <div className="b-home-reviews">
@@ -116,4 +138,6 @@ class AboutUs extends Component {
   }
 }
 
+
+// replaceComponent("Products", AboutUs);
 registerComponent("aboutUs", AboutUs);

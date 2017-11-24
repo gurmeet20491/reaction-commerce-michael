@@ -7,7 +7,7 @@ import { Template } from "meteor/templating";
 import { getComponent as assertComponent, registerComponent } from "/imports/plugins/core/components/lib";
 
 
-class CoreLayoutBeesknees extends Component {
+class customHomePageTemplate extends Component {
   static propTypes = {
     actionViewIsOpen: PropTypes.bool,
     data: PropTypes.object,
@@ -65,7 +65,7 @@ class CoreLayoutBeesknees extends Component {
             <div className="bkdebug">
               <em>main {this.getComponent(template) ? "component:" : "(Blaze template):"}</em> {template}</div>
           </div> */}
-
+          <h1>Hello</h1>
           {this.renderMain()}
         </main>
 
@@ -76,6 +76,6 @@ class CoreLayoutBeesknees extends Component {
 }
 
 // Register component for it to be usable
-registerComponent("coreLayoutBeesknees", CoreLayoutBeesknees);
+registerComponent("customHomePageTemplate", customHomePageTemplate);
 
-export default CoreLayoutBeesknees;
+export default customHomePageTemplate;
