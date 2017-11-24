@@ -1,23 +1,15 @@
 import { Reaction } from "/server/api";
 
 Reaction.registerPackage({
-  label: "Bees Knees",
-  name: "beesknees",
+  label: "Custom Homepage",
+  name: "homepage",
   icon: "fa fa-vine",
   meta: {
     version: "1.0.0"
   },
   autoEnable: true,
-  registry: [
-    {
-      route: "/homepage",
-      name: "about",
-      template: "aboutUs",
-      workflow: "coreProductGridWorkflow"
-    }
-  ],
   layout: [{
-    layout: "coreLayoutBeesknees",
+    layout: "customHomePageTemplate",
     workflow: "coreProductGridWorkflow",
     collection: "Products",
     theme: "default",

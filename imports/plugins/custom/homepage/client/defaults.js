@@ -1,5 +1,10 @@
 import { Session } from "meteor/session";
-import { Logger } from "/client/api";
 
-Session.set("DEFAULT_LAYOUT", "coreLayoutBeesknees");
-Logger.info("setting DEFAULT_LAYOUT");
+Session.set("INDEX_OPTIONS", {
+  template: "productsLanding",
+  layoutHeader: "NavBar",
+  layoutFooter: "Footer",
+  notFound: "notFound",
+  dashboardControls: "dashboardControls",
+  adminControlsFooter: "adminControlsFooter"
+});

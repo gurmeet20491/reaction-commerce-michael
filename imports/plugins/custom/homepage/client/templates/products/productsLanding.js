@@ -1,11 +1,12 @@
 import { $ } from "meteor/jquery";
 import { Template } from "meteor/templating";
 import { Reaction } from "/client/api";
+import { getComponent } from "/imports/plugins/core/components/lib";
 import ProductsContainer from "/imports/plugins/included/product-variant/containers/productsContainer";
 
 Template.productsLanding.helpers({
   component() {
-    return ProductsContainer;
+    return getComponent("aboutUs");;
   }
 });
 
