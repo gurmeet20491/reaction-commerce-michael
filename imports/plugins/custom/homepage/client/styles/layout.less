@@ -189,7 +189,47 @@ a:hover,
   }
 
   .b-home-brands {
-    margin: 0 20px 40px 20px;
+    margin: 0 0 40px;
+
+    .b-home-brand {
+      display: inline-block;
+    }
+
+    .b-home-first {
+      width: 60%;
+      display: inline-block;
+
+      .b-home-brand {
+        width: ~"calc(33% - 15px)";
+  
+        img {
+          max-width: 250px;
+          width: 100%;
+        }
+      }
+    }
+
+    .b-home-second {
+      width: 40%;
+      display: inline-block;
+
+      .b-home-brand {
+        width: ~"calc(50% - 15px)";
+  
+        img {
+          max-width: 250px;
+          width: 100%;
+        }
+      }
+
+      &:first-child {
+        margin-left: 18px;
+      }
+    }
+
+    .b-home-brand + .b-home-brand {
+      margin-left: 18px;
+    }
   }
 
   .slick-next:before, .slick-prev:before {
@@ -247,12 +287,91 @@ a:hover,
         }
       }
     }
+
+    .b-home-brands {
+  
+      .b-home-brand {
+        display: block;
+        margin-left: 0;
+        margin-bottom: 10px;
+      }
+  
+      .b-home-first {
+        width: 50%;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+  
+        .b-home-brand {
+          width: auto;
+    
+          img {
+            max-width: 250px;
+          }
+        }
+      }
+  
+      .b-home-second {
+        width: 50%;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+  
+        .b-home-brand {
+          width: auto;
+    
+          img {
+            max-width: 250px;
+          }
+        }
+      }
+    }
   }
 }
 
 @media (max-width: 479px) {
   .b-home-img-small-desktop {
     display: none;
+  }
+  .main-container {
+    .b-home-brands {
+      
+      .b-home-brand {
+        display: block;
+        margin-left: 0;
+        margin-bottom: 10px;
+      }
+  
+      .b-home-first {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+        text-align: center;
+  
+        .b-home-brand {
+          width: auto;
+    
+          img {
+            max-width: 250px;
+          }
+        }
+      }
+  
+      .b-home-second {
+        width: 100%;
+        display: block;
+        vertical-align: top;
+        text-align: center;
+  
+        .b-home-brand {
+          width: auto;
+    
+          img {
+            max-width: 250px;
+          }
+        }
+      }
+    }
   }
 }
 

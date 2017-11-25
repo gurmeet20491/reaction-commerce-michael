@@ -36,16 +36,37 @@ class AboutUs extends Component {
             </div>
 
             <div className="b-home-brands">
-              <Slider {...settings}>
-                <div><img src="resources/images/1.png" alt=""/></div>
-                <div><img src="resources/images/2.png" alt=""/></div>
-                <div><img src="resources/images/3.png" alt=""/></div>
-                <div><img src="resources/images/4.png" alt=""/></div>
-                <div><img src="resources/images/5.png" alt=""/></div>
-                <div><img src="resources/images/6.png" alt=""/></div>
-                <div><img src="resources/images/7.png" alt=""/></div>
-                <div><img src="resources/images/8.png" alt=""/></div>
-              </Slider>
+              <div className="b-home-first">
+                <div className="b-home-brand">
+                  <a href="#">
+                    <img src="resources/images/empura-equipment-logo.png" alt="" width="680" height="340" className="b-home-brand-img"/>
+                  </a>
+                </div>
+                <div className="b-home-brand">
+                  <a href="#">
+                    <img src="resources/images/hoshizaki-ice-logo.png" alt="" width="680" height="340" className="b-home-brand-img"/>
+                  </a>
+                </div>
+                <div className="b-home-brand">
+                  <a href="#">
+                    <img src="resources/images/iceomatic-ice-logo.png" alt="" width="680" height="340" className="b-home-brand-img"/>
+                  </a>
+                </div>
+              </div>
+
+              <div className="b-home-second">
+                <div className="b-home-brand">
+                  <a href="#">
+                    <img src="resources/images/manitowoc-ice-logo.jpg" alt="" width="680" height="340" className="b-home-brand-img"/>
+                  </a>
+                </div>
+                <div className="b-home-brand">
+                  <a href="#">
+                    <img src="resources/images/scotsman-ice-logo.png" alt="" width="680" height="340" className="b-home-brand-img"/>
+                  </a>
+                </div>
+              </div>
+
             </div>
 
             <div className="b-home-reviews">
