@@ -6,7 +6,7 @@ Reaction.registerPackage({
   icon: "fa fa-cubes",
   autoEnable: true,
   registry: [{
-    route: "/product/:handle/:variantId?",
+    route: "/:handle/:variantId?",
     name: "product",
     template: "productDetailSimple",
     workflow: "coreProductWorkflow"
